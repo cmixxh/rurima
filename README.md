@@ -35,6 +35,8 @@ See [TERMS_OF_USE.md](TERMS_OF_USE.md)
 # Full usage doc:
 For a full usage documentation,    
 See [USAGE.md](doc/USAGE.md).     
+# FAQ:
+See [FAQ.md](doc/FAQ.md).
 # Send us your feedback!
 Your use case, your suggestions, anyway, we would love to hear from you!     
 [Discussions](https://github.com/RuriOSS/rurima/discussions/16)      
