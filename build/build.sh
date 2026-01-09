@@ -16,7 +16,7 @@ done
 
 mkdir output
 
-git clone --depth 1 https://github.com/moe-hacker/rurima.git
+git clone --depth 1 https://github.com/cmixxh/rurima.git
 cd rurima
 git submodule update --init --recursive
 cc build.c -o build-rurima
